@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1738876286 source:c:\esprit cours\c++\td_2\td2-ex2\compte.cpp
+	"compte.h"
+	<iostream>
+
+1738876667 c:\esprit cours\c++\td_2\td2-ex2\compte.h
+	<string>
+
+1738405941 source:c:\esprit cours\c++\td_2\td2-ex2\main.cpp
+	<iostream>
+	"compte.h"
+
+1738876412 source:c:\esprit cours\c++\td_2\td2-ex2\banque.cpp
+	"Banque.h"
+	<iostream>
+
+1738876426 c:\esprit cours\c++\td_2\td2-ex2\banque.h
+	"compte.h"
+
